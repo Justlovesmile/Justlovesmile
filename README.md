@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 Work or study hard.
+- 💬 Blog: [https://blog.justlovesmile.top](https://blog.justlovesmile.top)
