@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 - 🌱 Work or study hard.
 - 💬 Blog: [https://blog.justlovesmile.top](https://blog.justlovesmile.top)
+
+![Justlovesmile's github stats](https://github-readme-stats.vercel.app/api?username=Justlovesmile&show_icons=true)
