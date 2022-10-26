@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Justlovesmile/Justlovesmile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### XIE MINGJIE 👋
+
+![](https://img.shields.io/badge/Major-CS-609926?style=flat&logo=ABB%20RobotStudio&logoColor=ffffff)
+
 - 🌱 Work or study hard.
 - 💬 Blog: [https://blog.justlovesmile.top](https://blog.justlovesmile.top)
 
-![Justlovesmile's github stats](https://github-readme-stats.vercel.app/api?username=Justlovesmile&show_icons=true&theme=dracula)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Justlovesmile&show_icons=true&theme=dracula" alt="Justlovesmile's github stats" > </p>
