@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 ### XIE MINGJIE 👋
 
 ![](https://img.shields.io/badge/Major-CS-609926?style=flat&logo=ABB%20RobotStudio&logoColor=ffffff)
+![](https://img.shields.io/badge/Use-Python-0076ab?style=flat&logo=Python&logoColor=ffffff)
 
-- 🌱 Work or study hard.
-- 💬 Blog: [https://blog.justlovesmile.top](https://blog.justlovesmile.top)
+- 🌱 Keep on learning ...
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Justlovesmile&show_icons=true&theme=dracula" alt="Justlovesmile's github stats" > </p>
+<details>
+<summary>📈 My GitHub Stats</summary>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Justlovesmile&show_icons=true&theme=dracula" alt="Justlovesmile" > </p>
+</details>
